@@ -9,6 +9,6 @@ Show all available SSIDs, sort by their signal strength and highlight in red any
 
 test_colors.sh
 
-Show color codes in terminal supporting 256 colors.
+Show color codes in terminal supporting 256 colors. (Using both ANSI escaping and tput)
 
 <img src="https://i.imgur.com/cNos7rb.png" width=500 height=750>
